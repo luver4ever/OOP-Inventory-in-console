@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\bin\Debug\netcoreapp3.1\TechicalTask.exe
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\bin\Debug\netcoreapp3.1\TechicalTask.deps.json
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\bin\Debug\netcoreapp3.1\TechicalTask.runtimeconfig.json
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\bin\Debug\netcoreapp3.1\TechicalTask.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\bin\Debug\netcoreapp3.1\TechicalTask.dll
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\bin\Debug\netcoreapp3.1\TechicalTask.pdb
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.dll
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.pdb
+C:\Users\Admin\source\repos\TechicalTask\TechicalTask\obj\Debug\netcoreapp3.1\TechicalTask.genruntimeconfig.cache
